@@ -887,8 +887,10 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385
 http://contvanime-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://thehoneypop.com/wp-content/uploads/2021/01/image-2.png" group-title="👼|Thiếu Nhi",Học Tiếng Anh KPOP 
 http://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="tvg-id="cbeebies" tvg-logo="http://i.ibb.co/mHNZbn0/bbc.jpg" group-title="👼|Thiếu Nhi",Cbeebies
+http://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="happykids" tvg-logo="http://i.ibb.co/ymTnSZQ/happykids.jpg" group-title="👼|Thiếu Nhi",Happy Kids HD
+http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #-*--Kênh Thể Thao-*--#
 
 #EXTINF:-1 group-title="Thể Thao" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/thumbh_20220323_000419.jpg",beIN SPORTS Xtra
