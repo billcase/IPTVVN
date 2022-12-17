@@ -871,6 +871,23 @@ https://sub2.neetball.net/live/neet.m3u8?cc
 #EXTINF:0 group-title="👼|Thiếu Nhi" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS Kids
 #EXTVLCOPT:http-user-agent=billcasetv
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
+#EXTINF:-1 tvg-logo="http://i.ibb.co/yQ2T6wT/naruto-4eb4d771aae0d.jpg" group-title="👼|Thiếu Nhi",NaRuTo HD 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
+#EXTINF:-1 tvg-logo="http://as.com/meristation/imagenes/2021/05/11/noticias/1620730378_165552_1620730455_sumario_normal.jpg" group-title="👼|Thiếu Nhi",Anime Clasico
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="http://corporate.pluto.tv/wp-content/uploads/%2017/03/AnimeAllDay_blog_facebook_2-960x502.jpg" group-title="👼|Thiếu Nhi",Anime All Day
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnS0EuBx_GfSVb3UlL_CKZxmxmtxNOXCMhQeCPM8gEceQrhqzSW3Qb0FbTGjIX7LD-fo&usqp=CAU" group-title="👼|Thiếu Nhi",Lego TV
+http://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="disneyjunior" group-title="TRẺ EM" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsE4vQzM5JZrUmrzwXyf_YIFTji7y8Yug2EPO3WxMcC3OFNgnAGLnghvJReBuhaf7U6A&usqp=CAU",TRT COCUK HD
+http://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/YT2O35P2rzInw8nJu4DS360GsxrzJypasmYqhqzmnx1CBV-s9l7Cz1Rgr76T6bGvv6I=w512" group-title="👼|Thiếu Nhi",Anime TV
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="👼|Thiếu Nhi",Học Tiếng Anh CONTV ANIME FHD
+http://contvanime-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://thehoneypop.com/wp-content/uploads/2021/01/image-2.png" group-title="👼|Thiếu Nhi",Học Tiếng Anh KPOP 
+http://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+
 
 #-*--Kênh Thể Thao-*--#
 
